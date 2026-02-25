@@ -5,6 +5,16 @@ date: 2026-02-18
 tags: ["historia", "sao-borja", "aparicio-mariense", "jornalismo", "memoria"]
 heroImage: "/images/funes-mariense-portrait.png"
 heroImageAlt: "Retrato de Aparício Funes, correspondente de O Município, em estilo de gravura antiga."
+author: "Aparício Funes"
+ogTitle: "O Município: O Eco do Pampa no Deserto Digital"
+ogDescription: "Uma carta aberta aos tempos novos, trazendo o rastro dos Mariense e a tinta fresca da história de São Borja."
+ogImage: "/images/funes-mariense-portrait.png"
+ogImageAlt: "Retrato de Aparício Funes, correspondente de O Município, em estilo de gravura antiga."
+twitterTitle: "O Município: O Eco do Pampa no Deserto Digital"
+twitterDescription: "Uma carta aberta aos tempos novos, trazendo o rastro dos Mariense e a tinta fresca da história de São Borja."
+twitterImage: "/images/funes-mariense-portrait.png"
+twitterImageAlt: "Retrato de Aparício Funes, correspondente de O Município, em estilo de gravura antiga."
+twitterCard: "summary_large_image"
 ---
 
 Saudações, viventes deste vasto rincão digital.
